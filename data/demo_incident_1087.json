@@ -1,0 +1,5 @@
+{"incident_id": "1087", "service": "Payment API", "severity": "SEV-2",
+ "error_message": "Connection pool exhausted",
+ "symptoms": "Checkout requests time out under load",
+ "recent_change": "New Payment API deployment",
+ "logs": "Database connection pool is at capacity"}
